@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
               height: screenHeight *
                   0.9, // Adjust the height based on screen height
               color: Colors.white
-                  .withOpacity(0.1), // Makes the image subtle for dark mode
+                  .withOpacity(0.15), // Makes the image subtle for dark mode
             ),
           ),
           Center(
